@@ -1,0 +1,16 @@
+DATA ANALYSIS WITH PYTHON(WEATHER DATASET)
+
+1. We have take a dataset of weather which contains about 96453 rows.
+2. The data is available as a csv file downlaoded from kaggle.
+3. We will analyze this data using pandas dataframe
+4. In this project, we will use command & function:-
+nunique() & unique()
+value_counts()
+filtering
+groupby()
+getgroup()
+isnull() & notnull()
+rename()
+mean()
+std()
+var()
